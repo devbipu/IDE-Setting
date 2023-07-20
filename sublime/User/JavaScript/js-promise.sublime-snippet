@@ -1,0 +1,18 @@
+<snippet>
+<content><![CDATA[
+new Promise(${1:(resolve, reject)} => {
+	${2://data here}
+	if (${3:true}) {
+		${4:resolve()}
+		
+	}else{
+		${5:reject()}
+	}
+})
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dbprom</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

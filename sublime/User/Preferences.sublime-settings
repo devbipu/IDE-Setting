@@ -1,0 +1,42 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"font_size": 14,
+	"font_face": "Source Code Pro", //old = Monaco
+	"theme": "Material-Theme.sublime-theme",
+	"material_theme_contrast_mode": true,
+	"tab_size": 2,
+	"spell_check": true,
+	"highlight_line": false,
+	"highlight_line_number": true,
+	"caret_style": "smooth",
+	"hide_pointer_while_typing": false,
+	"added_words":
+	[
+		"nullable",
+		"backend",
+		"php",
+	],
+	"ignored_words":
+	[
+		"Http",
+		"Laravel",
+		"Middleware",
+		"Taka",
+		"Vue",
+		"ajax",
+		"api",
+		"auth",
+		"axios",
+		"frontend",
+		"heroicons",
+		"laravel",
+		"middleware",
+		"param",
+		"sslcommerz",
+		"taka",
+		"vue",
+	],
+}
