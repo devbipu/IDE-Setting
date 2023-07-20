@@ -13,13 +13,13 @@
 ```
 1. Download sublime dir
 
-2. Open sublime and press Ctrl+Shift+P or Go to Preference > Brows Packages
+2. Open sublime and press Ctrl+Shift+P or Go to Preference > Browse Packages
 
-3. Delete User directory & Past  User & Material Theme folder
+3. Delete the User directory & Past  User & Material Theme directory download from GitHub
 
-4. Restart sublime text, If you don't have package manager then install sublime package manager
+4. Restart sublime text, If you don't have a package manager then install the sublime package manager
 
-5. Wait for few minutes, it will download all required extension and setting on your IDE
+5. Wait for a few minutes, it will download all required extensions and setting on your IDE
 ```
 
 ## Author Info
